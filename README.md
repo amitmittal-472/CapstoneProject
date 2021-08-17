@@ -9,6 +9,7 @@ The film industry plays a major role in the planetary or world-wide economy. It 
 This paperwork is on analyzing the film genre, the release date around holidays, the release month of movies, the languages and country with more movies from the movie review dataset. There are attributes (country, languages, genre, movie release date, budget and revenue) taken from the dataset and the derived attributes (release month of the movie derived from release date of movie and profit from budget and revenue) is analyzed to determine the movie performance. The analyzed data is plotted in graphs for statistical observation of the movie success. 
 
 There are two datasets used for the analysis.
+   
 a)	IMDB’s API : Please refer 'Data Analysis on Movies Dataset.ipynb'
    
 b)	movie_metadata.csv : Please refer file name 'movie_metadata.csv'

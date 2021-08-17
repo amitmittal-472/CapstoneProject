@@ -13,4 +13,6 @@ There are two datasets used for the analysis.
 a)	IMDB’s API : Please refer 'Data Analysis on Movies Dataset.ipynb'
    
 b)	movie_metadata.csv : Please refer file name 'movie_metadata.csv'
+    
+Analysis and visualizarion: Please refer tableau file 'Movie Analysis.twbx' 
 
